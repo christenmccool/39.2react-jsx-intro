@@ -1,0 +1,14 @@
+.tweet {
+  background-color: #add8e6;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.name {
+  font-weight: bold;
+}
+
+p {
+  margin-bottom: 0;
+}
